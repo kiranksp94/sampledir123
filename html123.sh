@@ -6,12 +6,14 @@
   <li>Coffee</li>
     <li>Tea</li>
       <li>Milk</li>
+      <li>sugar</li>
       </ul>  
      <h2>An Ordered HTML List</h2>
 <ol>
         <li>Coffee</li>
 	  <li>Tea</li>
 	    <li>Milk</li>
+	    <li>Sugar</li>
 	    </ol>
 	    </body>
 	    </html>
